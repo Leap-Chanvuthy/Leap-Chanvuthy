@@ -1,6 +1,5 @@
 
-<img width="100%" src="https://miro.medium.com/v2/resize:fit:1100/1*IRGHmiGsa16stedQvIaZfw.gif" alt="banner">
-
+<img width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 <h1 align="center">Hi 👋, I'm Leap Chanvuthy</h1>
 <h3 align="center">I'm passionate in Software development and Explore new technology to build up my career and projects .</h3>
 
