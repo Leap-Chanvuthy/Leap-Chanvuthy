@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Leap Chanvuthy</h1>
-<h3 align="center">I'm passionate in Software development and Explore new technology to build up my career and projects .</h3>
+<h3 align="center">I'm passionate in Software development and Explore new technology to build up my career and projectss .</h3>
 
 <img align="right" width="400" src="img/vuthy.jpg" alt="banner">
 
