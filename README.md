@@ -39,7 +39,7 @@
 </div> -->
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=darot-chen&count_private=true&theme=cobalt&show_icons=true)](https://github.com/Leap-Chanvuthy)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leap-Chanvuthy&count_private=true&theme=cobalt&show_icons=true)](https://github.com/Leap-Chanvuthy)
 </br>
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leap-Chanvuthy&layout=compact&theme=cobalt)](https://github.com/Leap-Chanvuthy/)
