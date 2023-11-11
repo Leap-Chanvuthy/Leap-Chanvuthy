@@ -23,9 +23,6 @@
 <a href="https://instagram.com/cchanvuthyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cchanvuthyy" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
 <div style="align: right">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leap-Chanvuthy&layout=compact&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
@@ -37,5 +34,20 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leap-Chanvuthy&show_icons=true&theme=transparent)
 
 </div>
-<!---
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=darot-chen&count_private=true&theme=cobalt&show_icons=true)](https://github.com/darot-chen)
+</br>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leap-Chanvuthy&layout=compact&theme=cobalt)](https://github.com/darot-chen/)
+
+
+
+
+```txt
+Vue.js       2 hrs 52 mins   ███████████▓░░░░░░░░░░░░░   46.77 %
+Dart         2 hrs 16 mins   █████████▒░░░░░░░░░░░░░░░   37.16 %
+YAML         27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Markdown     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+TypeScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+```
