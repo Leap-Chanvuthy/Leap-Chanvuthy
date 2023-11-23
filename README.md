@@ -16,7 +16,7 @@
 - ⚡ Fun fact **Love taking Astrophotography and self-learning Astronomy**
 
 #### Hobbies 
-🧑🏻‍💻 Coding  |  ⚽️ Football | 🏐 Jogging | 🎮 Gaming<br>
+🧑🏻‍💻 Coding  |  ⚽️ Football | 🏃 Jogging | 🎮 Gaming<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
