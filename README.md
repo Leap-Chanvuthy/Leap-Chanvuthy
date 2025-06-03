@@ -7,11 +7,9 @@
 <img align="right" width="400" src="img/vuthy.jpg" alt="banner">
 
 
-- 🌱 I’m currently learning **React for Frontend and Node , Express for Backend**
+- 🌱 I am a fresh gratuate in Computer Science specializing in software engineering at Cambodia Academy of Digital Technology. Throughout my academic journey, I have developed a strong foundation in software engineering principles and practices. My coursework has equipped me with a solid understanding of Software Development !**
 
-- 💬 Ask me about **MERN Stacks**
-
-- 📫 Contact me via **chanvuthy.leap@student.cadt.edu.kh**
+- 📫 Contact me via **leapchanvuthy@gmail.com**
 
 - ⚡ Fun fact **Love taking Astrophotography and self-learning Astronomy**
 
